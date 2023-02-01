@@ -4,6 +4,7 @@
  # EMERGENCIA HABITACIONAL EN VALENCIA
  Se abordará la crisis habitacional que afecta a la comunidad valenciana desde diferentes flancos.
  
+![image](https://github.com/damsoler/EDA/blob/main/portada.jpg?raw=true)
 ### HIPÓTESIS
 La dificultad para alquiler un piso en valencia está relacionada con:
 - La disminucion de la oferta de pisos en alquiler,
@@ -21,4 +22,4 @@ La dificultad para alquiler un piso en valencia está relacionada con:
 
 [EVOLUCUIN EURIBOR ](https://www.epdata.es/variacion-mensual-euribor-ultimos-24-meses/0ac73426-79a0-40c1-873f-44befbd9a576)
 
-También incluye el origen de estos datos y su fuente.
+
