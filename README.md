@@ -1,10 +1,12 @@
 # EDA
  Final EDA Project, 
  
- # EMERGENCIA HABITACIONAL EN VALENCIA
+
  Se abordará la crisis habitacional que afecta a la comunidad valenciana desde diferentes flancos.
  
 ![image](https://github.com/damsoler/EDA/blob/main/portada.jpg?raw=true)
+Se abordará la crisis habitacional que afecta a la comunidad valenciana desde diferentes flancos.
+
 ### HIPÓTESIS
 La dificultad para alquiler un piso en valencia está relacionada con:
 - La disminucion de la oferta de pisos en alquiler,
