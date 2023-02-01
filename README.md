@@ -24,4 +24,4 @@ La dificultad para alquiler un piso en valencia está relacionada con:
 
 [EVOLUCUIN EURIBOR ](https://www.epdata.es/variacion-mensual-euribor-ultimos-24-meses/0ac73426-79a0-40c1-873f-44befbd9a576)
 
-
+![image](https://github.com/damsoler/EDA/blob/main/EDA%20mobile%20-%20Power%20BI%20%E2%80%94%20Mozilla%20Firefox%202023-01-31%2016-46-46.gif?raw=true)
